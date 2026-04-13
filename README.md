@@ -13,14 +13,14 @@ I specialize in building high-performance backend systems, decentralized infrast
 
 ### 🛠 Projects & Contributions
 - **[OPay](https://github.com/thefauxpastrouper/OfflineSolanaPay):** A decentralized payment protocol built on Solana for seamless online/offline transactions.
-- **Agentic Workflows:** Integrating Equiledger API with AI agents using Model Context Protocol (MCP).
+- **[Agentic Workflows](https://github.com/thefauxpastrouper/assignment-zorvyn):** Integrating Equiledger API with AI agents using Model Context Protocol (MCP).
 
 ---
 
 ### 📫 Connect with me
 - **Portfolio:** [thefauxpastrouper.online](https://thefauxpastrouper.online/)
 - **LinkedIn:** [swaroop-aditya](https://www.linkedin.com/in/swaroop-aditya/)
-- **X (Twitter):** [@Adi_swaroop](https://x.com/ad_swaroop_work)
+- **X (Twitter):** [@ad_swaroop_work](https://x.com/ad_swaroop_work)
 
 > "Safe code is good, but understanding why it's 'unsafe' is better."
 
