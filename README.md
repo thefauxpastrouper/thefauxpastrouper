@@ -1,4 +1,32 @@
-## Hi there 👋
+# 🦀 Aditya Swaroop (thefauxpastrouper)
+*Systems Engineer | Solana Developer | Quant Researcher | Low-Latency Backend Developer*
+
+I specialize in building high-performance decentralized infrastructure and quantitative trading systems. Currently focused on low-level Rust implementations, Solana RPC optimization, and alpha research.
+
+---
+
+### 🚀 Technical Focus
+- **Languages:** Rust (FFI, Macros, Async), Cairo, C, TypeScript.
+- **Blockchain:** Solana (PnL Algorithms, Jupiter/Phantom Integration).
+- **Infrastructure:** Docker, GitHub Actions, Linux Systems (Hetzner/Cloudflare).
+- **Quant:** WorldQuant Brain (WQL), Alpha Strategy Development.
+
+### 🛠 Projects & Contributions
+- **[OPay](https://github.com/thefauxpastrouper/OfflineSolanaPay):** A decentralized payment protocol built on Solana for seamless online/offline transactions.
+- **Agentic Workflows:** Integrating Equiledger API with AI agents using Model Context Protocol (MCP).
+
+### 📈 Stats & Activity
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=thefauxpastrouper&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thefauxpastrouper&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Connect with me
+- **Portfolio:** [thefauxpastrouper.online](https://thefauxpastrouper.online/)
+- **LinkedIn:** [swaroop-aditya](https://www.linkedin.com/in/swaroop-aditya/)
+- **X (Twitter):** [@Adi_swaroop](https://x.com/Adi_swaroop)
+
+> "Safe code is good, but understanding why it's 'unsafe' is better."
 
 <!--
 **thefauxpastrouper/thefauxpastrouper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
