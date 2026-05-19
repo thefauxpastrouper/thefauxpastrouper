@@ -13,7 +13,8 @@ I specialize in building high-performance backend systems, decentralized infrast
 
 ### 🛠 Projects & Contributions
 - **[OPay](https://github.com/thefauxpastrouper/OfflineSolanaPay):** A decentralized payment protocol built on Solana for seamless online/offline transactions.
-- **[Agentic Workflows](https://github.com/thefauxpastrouper/assignment-zorvyn):** Integrating Equiledger API with AI agents using Model Context Protocol (MCP).
+- **[Face Authentication API](https://github.com/thefauxpastrouper/face-authentication-api):** A secure, low-latency biometric verification engine providing robust identity validation via structured API endpoints.
+- **[Equiledger Backend API](https://github.com/thefauxpastrouper/assignment-zorvyn):** A custom-engineered backend system built to integrate natively with the Equiledger API for reliable data processing.
 
 ---
 
